@@ -5,8 +5,7 @@ import (
 	// "net/http"
 
 	// "github.com/gorilla/mux"
-
-	"github.com/xtreamgit/13_packages/util"
+	"example.com/packages/util"
 )
 
 func main() {

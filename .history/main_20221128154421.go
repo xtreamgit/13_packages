@@ -6,7 +6,7 @@ import (
 
 	// "github.com/gorilla/mux"
 
-	"github.com/xtreamgit/13_packages/util"
+	"xtreamgit/nerdcademy/golang-main/13_packages/util"
 )
 
 func main() {
